@@ -1,8 +1,9 @@
 body{
   text-align: center;
+  background-color: black;
 }
 
 body h1{
-  color: black;
+  color: white;
   font-size: 35px;
 }
